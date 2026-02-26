@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ravindra Thakur </h1>
+<h1 align="center">Hi, I'm Ravindra Thakur </h1>
 <h3 align="center">Full Stack Developer | Competitive Programmer | CS Undergrad</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Final-year B.Tech CSE student at **IIIT Bhagalpur** (Class of 2026).
+- 🎓 Final-year B.Tech CSE student at **IIIT Bhagalpur** (2022-2026).
 - 💼 Previously worked as a **Full Stack Software Developer Intern** at Quantinent Analytics.
 - 🚀 Passionate about building scalable backends and crafting seamless frontends.
 - 🧠 Competitive programming enthusiast with a **1766 LeetCode rating** (600+ problems solved).
