@@ -14,7 +14,7 @@
 - 🎓 Final-year B.Tech CSE student at **IIIT Bhagalpur** (2022-2026).
 - 💼 Previously worked as a **Full Stack Software Developer Intern** at Quantinent Analytics.
 - 🚀 Passionate about building scalable backends and crafting seamless frontends.
-- 🧠 Competitive programming enthusiast with a **1766 LeetCode rating** (600+ problems solved).
+- 🧠 Competitive programming enthusiast with a **1830 LeetCode rating** (600+ problems solved).
 - 🌱 Currently exploring **Cloud Computing** and **System Design**.
 
 ---
